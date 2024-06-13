@@ -1,0 +1,15 @@
+{
+    "name": "user/webgis-php",
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master",
+        "josantonius/session": "^1.1",
+        "verot/class.upload.php": "dev-master"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "kouuch",
+            "email": "rifkyirsada2@gmail.com"
+        }
+    ]
+}

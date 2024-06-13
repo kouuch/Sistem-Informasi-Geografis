@@ -1,0 +1,12 @@
+{
+    "name": "user/webgi-spro",
+    "authors": [
+        {
+            "name": "kouuch",
+            "email": "rifkyirsada2@gmail.com"
+        }
+    ],
+    "require": {
+        "thingengineer/mysqli-database-class": "*"
+    }
+}

@@ -1,0 +1,24 @@
+<?php
+$db = new MysqliDb ($setDb['db_host'],$setDb['db_user'], $setDb['db_password'], $setDb['db_name']);
+(h_db)
+
+
+env
+<?php
+defined('env') OR exit('Akses langsung ke Skrip ini diblokir');
+
+$setDb['db_host']='localhost';
+$setDb['db_name']='web-gis';
+$setDb['db_user']='root';
+$setDb['db_password']='';
+
+
+// folder templates
+$template='templates/AdminLTE-2.4.17/';
+
+//session
+$setSession['prefix']='webgis';
+
+//URI
+$setUri['base']='http://localhost/webgis/';
+$setUri['assets']='assets/';

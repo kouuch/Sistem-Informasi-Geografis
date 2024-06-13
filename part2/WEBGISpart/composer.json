@@ -1,0 +1,14 @@
+{
+    "name": "user/webgis",
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master",
+        "verot/class.upload.php": "dev-master"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "kouuch",
+            "email":  "rifkyirsada2@gmail.com"
+        }
+    ]
+}
